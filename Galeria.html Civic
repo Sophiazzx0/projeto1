@@ -1,0 +1,19 @@
+<figure>
+            <img class="imagem-galeria" src="gato.jpeg" alt="">
+            <figcaption>gato</figcaption>
+        </figure>
+
+         <figure>
+            <img class="imagem-galeria" src="miau.jpeg" alt="">
+            <figcaption>gato</figcaption>
+        </figure>
+
+         <figure>
+            <img class="imagem-galeria" src="cachorro.webp" alt="">
+            <figcaption>gato</figcaption>
+
+             </section>
+</main>
+<footer>
+
+</footer>
